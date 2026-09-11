@@ -1,1 +1,132 @@
-# FileExtensionReporter.py
+File Extension Reporter
+
+File Extension Reporter is a simple Python utility that scans a folder and generates a report of the file extensions found inside it.
+
+The program automatically counts files based on their extensions and displays the total number of files scanned.
+
+Features
+
+- Scan files from a selected folder
+- Detect file extensions automatically
+- Count files by extension
+- Scan files inside subfolders
+- Display total number of files
+- Handle invalid folder paths
+- Simple command-line interface
+- No external packages required
+
+Technologies Used
+
+- Python 3
+- "os" module
+- "collections.Counter"
+- File and directory handling
+- Loops
+- Conditional statements
+- Exception handling
+
+How It Works
+
+The program asks the user to enter a folder path.
+
+It then scans the folder and its subfolders, detects the extension of each file, and counts how many files belong to each extension.
+
+For example:
+
+.py     : 12 files
+.jpg    : 7 files
+.pdf    : 4 files
+.txt    : 3 files
+
+Example
+
+========================================
+        FILE EXTENSION REPORTER
+========================================
+
+Enter folder path: /storage/emulated/0/Download
+
+========================================
+          EXTENSION REPORT
+========================================
+
+.py        : 12 files
+
+----------------------------------------
+Total Files : 12
+========================================
+
+Project Structure
+
+file-extension-reporter/
+│
+├── FileExtensionReporter.py
+└── README.md
+
+Requirements
+
+- Python 3.x
+- No external libraries required
+
+The project uses Python's built-in modules.
+
+How to Run
+
+1. Clone the Repository
+
+git clone YOUR_REPOSITORY_URL
+
+2. Open the Project Folder
+
+cd file-extension-reporter
+
+3. Run the Program
+
+python FileExtensionReporter.py
+
+Android Example
+
+If you are running the project on an Android device, a common Download folder path is:
+
+/storage/emulated/0/Download
+
+The exact path can vary depending on the Python application and device.
+
+Learning Outcomes
+
+This project helps practice:
+
+- Python file handling
+- Directory traversal
+- "os.walk()"
+- File extension detection
+- Dictionaries and counters
+- Loops
+- Conditional statements
+- Basic command-line applications
+
+Future Improvements
+
+- Display file names
+- Calculate total file size
+- Group files into categories
+- Generate a report file
+- Export reports to CSV
+- Add graphical user interface
+- Show largest and smallest files
+- Add sorting options
+- Add file type filters
+
+Project Type
+
+Beginner to Intermediate Python Project
+
+Author
+
+Ayush Singh
+
+BCA Student | Python Programmer | Learning DSA
+
+License
+
+This project is open source and available for learning and educational purposes.
