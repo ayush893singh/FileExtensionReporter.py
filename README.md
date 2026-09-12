@@ -121,9 +121,8 @@ Project Type
 
 Beginner to Intermediate Python Project
 
-Author
-
-Ayush Singh
+# Author
+Ayush Singh https://github.com/ayush893singh/FileExtensionReporter.py
 
 BCA Student | Python Programmer | Learning DSA
 
