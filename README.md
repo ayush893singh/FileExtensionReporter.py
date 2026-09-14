@@ -46,10 +46,10 @@ FILE EXTENSION REPORTER
 
 Enter folder path: /storage/emulated/0/Download
 ================
-lEXTENSION REPOR
+EXTENSION REPOR
 ================
 
-.py        : 12 files
+.py : 12 files
 
 ----------------------------------------
 Total Files : 12
