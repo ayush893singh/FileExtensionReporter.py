@@ -40,21 +40,20 @@ It then scans the folder and its subfolders, detects the extension of each file,
 
 # Example
 
-========================================
-        FILE EXTENSION REPORTER
-========================================
+=======================
+FILE EXTENSION REPORTER
+=======================
 
 Enter folder path: /storage/emulated/0/Download
-
-========================================
-          EXTENSION REPORT
-========================================
+================
+lEXTENSION REPOR
+================
 
 .py        : 12 files
 
 ----------------------------------------
 Total Files : 12
-========================================
+=========
 
 Project Structure
 
