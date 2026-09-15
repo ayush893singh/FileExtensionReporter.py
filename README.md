@@ -40,9 +40,9 @@ It then scans the folder and its subfolders, detects the extension of each file,
 
 # Example
 
-=======================
-FILE EXTENSION REPORTER
-=======================
+
+# FILE EXTENSION REPORTER
+
 
 Enter folder path: /storage/emulated/0/Download
 ================
@@ -103,18 +103,6 @@ This project helps practice:
 - Loops
 - Conditional statements
 - Basic command-line applications
-
-Future Improvements
-
-- Display file names
-- Calculate total file size
-- Group files into categories
-- Generate a report file
-- Export reports to CSV
-- Add graphical user interface
-- Show largest and smallest files
-- Add sorting options
-- Add file type filters
 
 Project Type
 
