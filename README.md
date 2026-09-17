@@ -110,9 +110,3 @@ Beginner to Intermediate Python Project
 
 # Author
 Ayush Singh https://github.com/ayush893singh/FileExtensionReporter.py
-
-BCA Student | Python Programmer | Learning DSA
-
-License
-
-This project is open source and available for learning and educational purposes.
