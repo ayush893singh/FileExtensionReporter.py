@@ -54,14 +54,6 @@ EXTENSION REPOR
 ----------------------------------------
 Total Files : 12
 =========
-
-Project Structure
-
-file-extension-reporter/
-│
-├── FileExtensionReporter.py
-└── README.md
-
 Requirements
 
 - Python 3.x
