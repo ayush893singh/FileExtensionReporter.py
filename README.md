@@ -75,30 +75,5 @@ cd file-extension-reporter
 
 python FileExtensionReporter.py
 
-# Android Example
-
-If you are running the project on an Android device, a common Download folder path is:
-
-/storage/emulated/0/Download
-
-The exact path can vary depending on the Python application and device.
-
-Learning Outcomes
-
-This project helps practice:
-
-- Python file handling
-- Directory traversal
-- "os.walk()"
-- File extension detection
-- Dictionaries and counters
-- Loops
-- Conditional statements
-- Basic command-line applications
-
-Project Type
-
-Beginner to Intermediate Python Project
-
 # Author
 Ayush Singh https://github.com/ayush893singh/FileExtensionReporter.py
