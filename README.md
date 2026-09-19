@@ -1,5 +1,4 @@
 # File Extension Reporter
-
 File Extension Reporter is a simple Python utility that scans a folder and generates a report of the file extensions found inside it.
 
 The program automatically counts files based on their extensions and displays the total number of files scanned.
@@ -37,9 +36,6 @@ It then scans the folder and its subfolders, detects the extension of each file,
 .jpg    : 7 files
 .pdf    : 4 files
 .txt    : 3 files
-
-# Example
-
 
 # FILE EXTENSION REPORTER
 
