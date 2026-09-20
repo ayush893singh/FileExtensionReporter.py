@@ -50,12 +50,6 @@ EXTENSION REPOR
 ----------------------------------------
 Total Files : 12
 =========
-Requirements
-
-- Python 3.x
-- No external libraries required
-
-The project uses Python's built-in modules.
 
 # How to Run
 
