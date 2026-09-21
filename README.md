@@ -66,4 +66,4 @@ cd file-extension-reporter
 python FileExtensionReporter.py
 
 # Author
-Ayush Singh https://github.com/ayush893singh/FileExtensionReporter.py
+Ayush Singh https://github.com/ayush893singh/
