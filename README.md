@@ -22,7 +22,6 @@ The program automatically counts files based on their extensions and displays th
 - File and directory handling
 - Loops
 - Conditional statements
-- Exception handling
 
 # How It Works
 
